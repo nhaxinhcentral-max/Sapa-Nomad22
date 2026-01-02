@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Construo - Construction Management",
+  "description": "A comprehensive construction project management application for tracking attendance, payroll, and project progress with a modern Meta-style UI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
